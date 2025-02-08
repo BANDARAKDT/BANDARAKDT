@@ -1,8 +1,10 @@
+
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deshani Bandara</h1>
 <h4 align="center">A passionate Mobile App Developer from Sri Lanka</h4>
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bandarakdt&label=Profile%20views&color=0e75b6&style=flat" alt="bandarakdt" /> </p>
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently learning at **Department of ICT, Faculty of Technology, University of Ruhuna**
 
@@ -36,6 +38,5 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandarakdt&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=bandarakdt&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-
-
-
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
