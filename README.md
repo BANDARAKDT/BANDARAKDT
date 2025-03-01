@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Deshani Bandara</h1>
-<h4 align="center">A passionate Mobile App Developer from Sri Lanka</h4>
+<h4 align="center">A motivated and detail-oriented undergraduate pursuing a BICT (Hons) degree at the University of Ruhuna</h4>
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bandarakdt&label=Profile%20views&color=0e75b6&style=flat" alt="bandarakdt" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning at **Department of ICT, Faculty of Technology, University of Ruhuna**
 
-- 🌱 I’m currently learning **Mobile App Development with Flutter**
+- 🌱 I’m currently learning **Mobile App Development with Flutter | Digital Image processig with Python**
 
 - 📫 How to reach me **deshanibandarawas@gmail.com**
 
